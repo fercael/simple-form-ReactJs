@@ -7,8 +7,6 @@ export const Wrapper = styled.form`
   display: flex;
   flex-direction: column;
   gap: 1rem;
-
-  border: 2px dotted green;
 `;
 
 export const FormTitle = styled.h1`
